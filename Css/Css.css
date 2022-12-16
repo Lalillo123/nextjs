@@ -1,0 +1,44 @@
+body{
+    display: flex;
+}
+
+.Contenedor{
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    background: white;
+    padding: 10px;   
+}
+
+.Principal{
+    background-color: bisque;
+    padding: 10px;
+}
+
+.img{
+    width: 250px;
+    height: 250px;
+}
+
+.header{
+    display: flex;
+}
+
+.nombre{
+    margin-left: 40px;
+    width: 100%;
+    font-size:25px;
+}
+
+.Titulo{
+    border: 1px solid #0cB1BF;
+    color: #0cB1BF;
+    font-size: 30px;
+}
+
+.Contenido{
+    font-size: 25px;
+}
+
+.fondo{
+    background-color: bisque;
+}
